@@ -1,0 +1,41 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "description": "> :flag_ru: **Bug Hunters** - пользователи у которых есть закрытый доступ к будущим обновления <@590481733493719060>\n\nОсновная задача лежит в том, чтобы находить как можно больше ошибок и недоработок связанных с обновлениями.",
+        "color": 4148973,
+        "fields": [
+          {
+            "name": "Основные правила",
+            "value": "> Основные правила которым стоит придерживаться работая с нами.\n\n**` 1. `** Запрещено любое распространение данных об обновлениях без разрешения от прямого руководства (**` Community Manager `**, **` Developer `**) \n\n**` 2. `** Запрещено использовать найденные ошибки / недоработки в корыстных целях.\n\n**` 3. `** Запрещено  скрывать найденные ошибки / недоработки в боте <@590481733493719060>",
+            "inline": true
+          },
+          {
+            "name": "Анкета",
+            "value": "**` 1. `** Ваше имя и возраст, представьтесь и расскажите кратко о себе.\n**` 2. `** Расскажите побольше о своем прошлом опыте в поиске ошибок.\n**` 3. `** Почему мы должны быть заинтересованы именно в вас?"
+          }
+        ],
+        "author": {
+          "name": "Bug Hunters"
+        }
+      },
+      {
+        "description": "> :flag_gb: **Bug Hunters** - users who have private access to future updates <@590481733493719060>\n\nThe main task lies in finding as many errors and shortcomings associated with updates as possible.",
+        "color": 4148973,
+        "fields": [
+          {
+            "name": "Basic Rules",
+            "value": "> Basic rules to follow while working with us.\n\n**` 1. `** Any distribution of update data without permission from direct management is prohibited (**` Community Manager `**, **` Developer `**)\n\n**` 2. `** It is forbidden to use the found errors / shortcomings for personal gain.\n\n**` 3. `** It is forbidden to hide found errors / shortcomings in the bot <@590481733493719060>"
+          },
+          {
+            "name": "Form",
+            "value": "**` 1. `** Your name and age, introduce yourself and tell us briefly about yourself.\n**` 2. `** Tell us more about your past experience in finding bugs.\n**` 3. `** Why should we be interested in you?"
+          }
+        ],
+        "author": {
+          "name": "Bug Hunters"
+        }
+      }
+    ],
+    "attachments": []
+  }

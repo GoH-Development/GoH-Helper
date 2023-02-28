@@ -1,0 +1,20 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "description": "⭐ — важные события связанные с проектом <@590481733493719060>\n📢 —  уведомления об статусе продуктов связанных с <@590481733493719060>\n🎉 — уведомления об розыгрышах!",
+        "color": 4148973,
+        "author": {
+          "name": "Подписка на уведомления"
+        }
+      },
+      {
+        "description": "⭐ - important events related to the <@590481733493719060>\n📢 - notifications about the status of products associated with <@590481733493719060>\n🎉 Giveaway notifications!",
+        "color": 4148973,
+        "author": {
+          "name": "Subscribing to Notifications"
+        }
+      }
+    ],
+    "attachments": []
+  }

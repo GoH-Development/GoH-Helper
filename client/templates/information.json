@@ -1,0 +1,48 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "🇷🇺 GoH - новое путешествие по всей вселенной!",
+        "description": "Добро пожаловать на сервер поддержки бота <@590481733493719060> 🌌",
+        "color": 4148973,
+        "fields": [
+          {
+            "name": "Полезный ссылки",
+            "value": "**[Сайт](https://gohbot.space)**\n **[Документация](https://docs.gohbot.space)**",
+            "inline": true
+          },
+          {
+            "name": "Мониторинги",
+            "value": "[**SD.C**](https://bots.server-discord.com/590481733493719060/)\n[**Boticord**](https://boticord.top/bot/590481733493719060)",
+            "inline": true
+          },
+          {
+            "name": "Как начать путешествие вместе с GoH?",
+            "value": "**` 1. `** Перейдите на **[сайт](https://gohbot.space)** бота\n**` 2. `** Нажмите на кнопку **` Пригласить бота `**\n**` 3. `** Начните ваше путешествие и создавайте историю вместе с нами!"
+          }
+        ]
+      },
+      {
+        "title": "🇬🇧 GoH - a new journey across the universe!",
+        "description": "Welcome to <@590481733493719060> bot support 🌌",
+        "color": 4148973,
+        "fields": [
+          {
+            "name": "Useful links",
+            "value": "**[Web-site](https://gohbot.space)**\n**[Documentation](https://docs.gohbot.space)**",
+            "inline": true
+          },
+          {
+            "name": "Monitorings",
+            "value": "[**SD.C**](https://bots.server-discord.com/590481733493719060/)\n[**Boticord**](https://boticord.top/bot/590481733493719060)",
+            "inline": true
+          },
+          {
+            "name": "How to start a journey with GoH?",
+            "value": "**` 1. `** Go to the **[bot site](https://gohbot.space)**\n**` 2. `** Click on the **` Invite Bot `** button\n**` 3. `** Start your adventure and make history with us!"
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  }

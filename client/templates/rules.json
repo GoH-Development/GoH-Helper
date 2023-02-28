@@ -1,0 +1,20 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "description": "> Если вы нарушите правила нашего сообщества, тогда модерация вправе принять решение по вашему наказанию самостоятельно на усмотрение.\n\n**` 1.1 `** ```Следите за тематикой канала и постарайтесь не путать её с другими текстовыми каналами```\n\n**` 1.2 `** ```Флуд/Спам в любых его проявлениях запрещены!```\n\n**` 1.3 `** ```Запрещена реклама любого другого продукта или сервера который никак не связан с GoH```\n\n**` 1.4 `** ```Запрещены безсмысленные упоминания пользователей без особой на это причины```\n\n**` 1.5 `** ```Запрещены оскорбления / грубые нецензурные выражения / политические высказывания / троллинг в любой форме проявления```\n\n**` 1.6 `** ```Запрещено попрашайничать в текстовых/голосовых чатах на сервере```\n\n**` 1.7 `** ```Запрещены любые деструктивные действия по отношению к нашим продуктам / серверу ```",
+        "color": 4148973,
+        "author": {
+          "name": "Правила сообщества GoH"
+        }
+      },
+      {
+        "description": "> If you break the rules of our community, then the moderation has the right to decide on your punishment on its own at its discretion.\n\n**` 1.1 `** ```Keep an eye on the topic of the channel and try not to confuse it with other text channels```\n\n**` 1.2 `** ```Flood/Spam in any form is prohibited!```\n\n**` 1.3 `** ```Prohibited advertising of any other product or server that is in no way affiliated with GoH```\n\n**` 1.4 `** ```No meaningless references to users for no particular reason```\n\n**` 1.5 `** ```Insults / strong obscene language / political statements / trolling in any form are prohibited```\n\n**` 1.6 `** ```No begging in text/voice chats on the server```\n\n**` 1.7 `** ```Any destructive actions in relation to our products / server are prohibited ```",
+        "color": 4148973,
+        "author": {
+          "name": "GoH Community Rules"
+        }
+      }
+    ],
+    "attachments": []
+  }
